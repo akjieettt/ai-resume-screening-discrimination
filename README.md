@@ -1,1 +1,1 @@
-# ai_resume_screening_discrimination
+# ai-resume-screening-discrimination
